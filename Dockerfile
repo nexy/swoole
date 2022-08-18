@@ -1,4 +1,4 @@
-FROM php:8.1.9-fpm
+FROM php:8.1.9
 
 LABEL maintainer="Ricardo Coelho <ricardo@nexy.com.br>"
 
